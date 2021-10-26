@@ -1,1 +1,1 @@
-# 3D-Engine-UI
+# 3D Chess Engine GUI
